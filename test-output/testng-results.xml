@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="2" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="8" started-at="2019-06-12T11:02:06Z" finished-at="2019-06-12T11:02:06Z">
+    <groups>
+    </groups>
+    <test name="Personal Loan Department" duration-ms="8" started-at="2019-06-12T11:02:06Z" finished-at="2019-06-12T11:02:06Z">
+    </test> <!-- Personal Loan Department -->
+  </suite> <!-- Loan Department -->
+</testng-results>

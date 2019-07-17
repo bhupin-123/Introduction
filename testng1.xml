@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+	<test name="Personal Loan Department">
+		<groups>
+			<run>
+				<include name="smoke" />
+			</run>
+		</groups>
+		<classes>
+			<class name="TestNG.class1"/>
+			<class name="TestNG.class2" />
+		</classes>
+	</test>
+	<!-- <test name="Car Loan Department"> <classes> <class name="TestNG.class3" 
+		/> </classes> </test> -->
+</suite>
