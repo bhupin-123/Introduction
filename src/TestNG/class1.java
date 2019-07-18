@@ -7,13 +7,8 @@ public class class1 {
 	
 	//@Test
 	public void Login() {
-<<<<<<< HEAD
-		
-		System.out.println("PersonLoanLogin1");
-=======
 
-		
->>>>>>> a9424315087a2cae2b7c460bea7b5fd759fbd0c2
+		System.out.println("PersonLoanLogin1");
 		System.out.println("PersonLoanLogin2");
 		System.out.println("PersonLoanLogin3");
 		System.out.println("PersonLoanLogin4");
