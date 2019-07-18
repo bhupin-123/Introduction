@@ -14,6 +14,10 @@ public class class1 {
 		System.out.println("PersonLoanLogin4");
 		System.out.println("PersonLoanLogin5");
 		System.out.println("PersonLoanLogin6");
+		System.out.println("PersonLoanLogin7");
+		System.out.println("PersonLoanLogin8");
+		System.out.println("PersonLoanLogin9");
+		System.out.println("PersonLoanLogin10");
 		
 
 	}
