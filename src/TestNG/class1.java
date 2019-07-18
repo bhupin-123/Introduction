@@ -8,7 +8,7 @@ public class class1 {
 	//@Test
 	public void Login() {
 
-		System.out.println("PersonLoanLogin1");
+		
 		System.out.println("PersonLoanLogin2");
 		System.out.println("PersonLoanLogin3");
 		System.out.println("PersonLoanLogin4");
