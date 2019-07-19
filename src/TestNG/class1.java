@@ -10,6 +10,7 @@ public class class1 {
 
 		System.out.println("PersonLoanLogin1");
 		System.out.println("PersonLoanLogin2");
+		System.out.println("PersonLoanLogin3");//Gaurav added
 
 	}
 	@Test
