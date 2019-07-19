@@ -9,7 +9,7 @@ public class class1 {
 	public void Login() {
 
 		System.out.println("PersonLoanLogin1");
-		System.out.println("PersonLoanLogin2");		
+		System.out.println("PersonLoanLogin2");
 	}
 	
 	@Test
