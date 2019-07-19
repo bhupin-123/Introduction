@@ -21,6 +21,7 @@ public class class1 {
 	public void LoginSuccessCheck() {
 		System.out.println("PersonLoanLogin is successfully check");
 		System.out.println("PersonLoanLogin is successfully check2");
+		System.out.println("PersonLoanLogin is successfully check3");
 	}
 	
 	
