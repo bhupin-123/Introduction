@@ -15,7 +15,7 @@ public class class1 {
 	}
 	@Test
 	public void LoginSuccessCheck() {
-		System.out.println("PersonLoanLogin is successfully check1");
+		System.out.println("PersonLoanLogin is successfully check111111");//Gaurav added 
 		System.out.println("PersonLoanLogin is successfully check2");
 
 	}
